@@ -3,10 +3,6 @@ from service.parsing_files import get_video_and_save
 
 
 def main():
-    pass
-
-
-if __name__ == '__main__':
     test_url = (
         'https://rr18---sn-3c27sn76.googlevideo.com/videoplayback?expire=16'
         '59412316&ei=_EroYtONBbqXx_'
@@ -42,3 +38,7 @@ if __name__ == '__main__':
     VideoToGiffConverter.convert_and_save(
         video_directory, video_name, gif_directory, gif_filename
     )
+
+
+if __name__ == '__main__':
+    main()
