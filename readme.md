@@ -2,7 +2,7 @@
 
 ## In every task folder you will find a main file with examples of using solution functions/classes
 
-## Installation and Launchening
+## Installation and Launching
 - Clone this repo via command  
 `git clone https://github.com/Fan4ik20/COAXBootCamp.git`
 - Install requirements via command  
